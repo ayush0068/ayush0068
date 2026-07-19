@@ -1,27 +1,104 @@
-# 💫 About Me:
-Computer Science Student | Full-Stack Developer | Lifelong Learner<br><br>I am passionate about building modern web applications and continuously exploring new technologies. My expertise includes React, Next.js, JavaScript, MongoDB, REST APIs, and Git. I enjoy creating projects that combine clean user experiences, efficient backend systems, and practical problem-solving. Through hands-on development, I constantly challenge myself to learn new tools, improve my coding skills, and stay updated with the latest trends in software engineering.<br><br>I believe in learning by building, whether it's developing full-stack applications, experimenting with new frameworks, or contributing to meaningful projects. My goal is to create impactful digital solutions, grow as a software engineer, and transform innovative ideas into real-world products.<br><br>"Code is more than just logic—it's a way to turn ideas into reality."
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Ayush%20Srivastava&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1_im_ayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-srivastava-b26a84280) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushrivastava0018@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ayush0068&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ayush0068&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayush0068&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A594F9&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Next.js;Turning+ideas+into+real+products;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayush0068&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayush0068&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🧭 About Me
 
----
-[![](https://komarev.com/ghpvc/?username=ayush0068&icon=2&color=13)](https://visitcount.itsvg.in)
+I'm a Computer Science student and full-stack developer who enjoys building clean, practical web applications — end to end, from database to UI. My toolkit centers on **React, Next.js, Node.js, and MongoDB**, and I care as much about how something feels to use as how it works under the hood.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *"Code is more than just logic — it's a way to turn ideas into reality."*
+
+- 🔭 Currently building full-stack projects with real-world use cases
+- 🌱 Deepening my knowledge of system design and modern frontend architecture
+- 🤝 Open to collaborating on meaningful, high-craft projects
+- 📫 Reach me at **ayushrivastava0018@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Markup**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Frameworks & Libraries**
+<br/>
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![EJS](https://img.shields.io/badge/EJS-000000?style=flat-square&logo=ejs&logoColor=B4CA65)
+
+**Database & Tools**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=46E3B7)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=ayush0068&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A594F9&icon_color=A594F9&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayush0068&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A594F9&text_color=C9D1D9&langs_count=8" width="30%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ayush0068&theme=tokyonight&hide_border=true&background=0D1117&ring=A594F9&fire=A594F9&currStreakLabel=A594F9" width="82%" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayush0068&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+
+</div>
+
+<br/>
+
+## 🔗 Connect
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/1_im_ayush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/ayush-srivastava-b26a84280)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ayushrivastava0018@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ayush0068&label=Profile%20Views&color=A594F9&style=flat-square" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%" />
+
+</div>
