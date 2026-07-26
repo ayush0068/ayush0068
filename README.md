@@ -136,6 +136,9 @@ ReConnect-AI pairs a standard MERN stack with a dedicated Python AI service to s
 
 **System architecture**
 
+<details>
+<summary><b>View System Architecture</b></summary>
+
 ```mermaid
 flowchart TD
     A["Client — React + Vite\nResponsive UI · Dashboard"] -->|REST API| B["Backend — Node.js + Express\nRole-Based Auth (JWT)"]
@@ -152,6 +155,8 @@ flowchart TD
     J -->|Match Found| E
     E -->|Live Notification| A
 ```
+
+</details>
 
 <br/>
 
@@ -173,6 +178,23 @@ flowchart TD
 
 `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
+<details>
+<summary><b>View System Architecture</b></summary>
+
+```mermaid
+flowchart TD
+    A["Client — Next.js + TypeScript"] -->|REST API| B["Backend — Node.js + Express"]
+    B -->|Auth — JWT + bcrypt + Google OAuth| B
+    B -->|OTP — Email/SMS| C["Nodemailer + Twilio"]
+    B --> D[("MongoDB")]
+    B -->|Payments & Payouts| E["Razorpay"]
+    B -->|Video Consultations| F["ZegoCloud"]
+    B -->|Pre-Consultation Reports| G["AI Health Assistant"]
+    B --> H["Admin Dashboard"]
+```
+
+</details>
+
 </td>
 <td width="50%" valign="top">
 
@@ -184,6 +206,21 @@ flowchart TD
 - Built as a companion system alongside UniCare+
 
 `React` `Node.js` `Socket.io` `MongoDB`
+
+<details>
+<summary><b>View System Architecture</b></summary>
+
+```mermaid
+flowchart TD
+    A["Client — React"] -->|REST API| B["Backend — Node.js"]
+    B --> C[("MongoDB")]
+    B -->|Real-Time Events| D["Socket.io"]
+    D -->|Live Request Routing| A
+    A -->|New Help Request| B
+    B -->|Notify Nearby Helpers| D
+```
+
+</details>
 
 </td>
 </tr>
