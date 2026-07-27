@@ -94,7 +94,7 @@ open to     Software Engineer · Full Stack · Backend · AI Engineer roles
 
 | Category | Technologies | Applied In |
 |---|---|---|
-| **Frontend** | JavaScript, TypeScript, React, Vite, Next.js, Tailwind CSS, Redux Toolkit | ReConnect-AI, UniCare+, HelpLink |
+| **Frontend** | JavaScript, TypeScript, React, Vite, Next.js, Tailwind CSS, Redux Toolkit | ReConnect-AI, UniCare+, HelpLink, Portfolio |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, Socket.io | All three platforms — auth, real-time events, secure APIs |
 | **Database** | MongoDB, Redis | Case records, user data, session/cache layers |
 | **AI / ML** | Python, FastAPI, Face Recognition, Face Embeddings, FAISS, YOLO, Semantic Search | ReConnect-AI's AI microservice |
@@ -219,16 +219,42 @@ flowchart TD
 
 <br/>
 
+### Portfolio
+**Personal Portfolio Website** — editorial-styled personal site with custom component animation and interaction design.
+
+- Animated navbar with a pill-shape scroll transformation and a logo text rotator cycling through name, status, and role
+- Hero section with a downloadable CV and an SVG signature draw animation
+- Filterable, categorized skills section with progress indicators
+- Asymmetric projects layout with expandable drawer details
+- Footer with a marquee name, hover-fill icons, and an availability badge
+- Dark theme with a custom red accent and Playfair Display / DM Sans typography
+
+`React` `Tailwind CSS` `Bootstrap Icons`
+
+<details>
+<summary><b>View Component Architecture</b></summary>
+
+```mermaid
+flowchart TD
+    A["Navbar — pill scroll + logo rotator"] --> B["Hero — CV download + signature animation"]
+    B --> C["Skills — filterable categorized cards"]
+    C --> D["Projects — asymmetric expandable layout"]
+    D --> E["Footer — marquee + availability badge"]
+```
+
+</details>
+
+<br/>
+
 ### Pinned Repositories
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush0068&repo=ReConnect-AI&hide_border=true&bg_color=0D0D0D&title_color=B5432D&icon_color=B5432D&text_color=F5F0E8" width="100%"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush0068&repo=UniCare&hide_border=true&bg_color=0D0D0D&title_color=B5432D&icon_color=B5432D&text_color=F5F0E8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush0068&repo=PORTFOLIO&hide_border=true&bg_color=0D0D0D&title_color=B5432D&icon_color=B5432D&text_color=F5F0E8" width="100%"/>
 
 </div>
-
-<sub>↳ Update the <code>repo</code> parameters above to match your exact repository names.</sub>
 
 <br/>
 
