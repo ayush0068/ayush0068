@@ -29,13 +29,13 @@
 
 <br/>
 
-## ／INDEX
+## INDEX
 
 `01` [About Me](#about-me) &nbsp;·&nbsp; `02` [Tech Stack](#tech-stack) &nbsp;·&nbsp; `03` [Flagship Project — ReConnect-AI](#flagship-project--reconnect-ai) &nbsp;·&nbsp; `04` [Other Projects](#other-projects) &nbsp;·&nbsp; `05` [GitHub Statistics](#github-statistics) &nbsp;·&nbsp; `06` [Activity](#activity-graph) &nbsp;·&nbsp; `07` [Goals & Roadmap](#current-goals) &nbsp;·&nbsp; `08` [Connect](#connect-with-me)
 
 <br/>
 
-## ／ABOUT ME
+## ABOUT ME
 
 I'm a **Full Stack MERN Developer** who builds production-grade web applications end to end — from schema design and secure APIs to responsive, real-time interfaces. My current focus is **integrating AI services into full-stack products**: pairing a Node.js/Express backend with a Python/FastAPI AI layer to ship features that go beyond CRUD — face recognition, semantic search, and vector-based matching.
 
@@ -51,7 +51,7 @@ open to     Software Engineer · Full Stack · Backend · AI Engineer roles
 
 <br/>
 
-## ／TECH STACK
+## TECH STACK
 
 <div align="center">
 
@@ -103,7 +103,7 @@ open to     Software Engineer · Full Stack · Backend · AI Engineer roles
 
 <br/>
 
-## ／FLAGSHIP PROJECT — RECONNECT-AI
+## FLAGSHIP PROJECT — RECONNECT-AI
 
 <div align="center">
 <h3>ReConnect-AI</h3>
@@ -160,11 +160,7 @@ flowchart TD
 
 <br/>
 
-## ／OTHER PROJECTS
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## OTHER PROJECTS
 
 ### UniCare+
 **Healthcare Platform** — full-stack online doctor consultation platform.
@@ -195,8 +191,7 @@ flowchart TD
 
 </details>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### HelpLink
 **Community Assistance Platform** — real-time platform connecting people who need help with nearby community members who can respond.
@@ -222,18 +217,14 @@ flowchart TD
 
 </details>
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 ### Pinned Repositories
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush0068&repo=ReConnect-AI&hide_border=true&bg_color=0D0D0D&title_color=B5432D&icon_color=B5432D&text_color=F5F0E8" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush0068&repo=UniCare&hide_border=true&bg_color=0D0D0D&title_color=B5432D&icon_color=B5432D&text_color=F5F0E8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush0068&repo=ReConnect-AI&hide_border=true&bg_color=0D0D0D&title_color=B5432D&icon_color=B5432D&text_color=F5F0E8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush0068&repo=UniCare&hide_border=true&bg_color=0D0D0D&title_color=B5432D&icon_color=B5432D&text_color=F5F0E8" width="100%"/>
 
 </div>
 
@@ -241,7 +232,7 @@ flowchart TD
 
 <br/>
 
-## ／GITHUB STATISTICS
+## GITHUB STATISTICS
 
 <div align="center">
 
@@ -254,7 +245,7 @@ flowchart TD
 
 <br/>
 
-## ／ACTIVITY GRAPH
+## ACTIVITY GRAPH
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush0068&bg_color=0D0D0D&color=F5F0E8&line=B5432D&point=B5432D&area=true&hide_border=true" width="100%"/>
@@ -262,7 +253,7 @@ flowchart TD
 
 <br/>
 
-## ／CONTRIBUTION SNAKE
+## CONTRIBUTION SNAKE
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ayush0068/ayush0068/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -272,7 +263,7 @@ flowchart TD
 
 <br/>
 
-## ／TROPHIES
+## TROPHIES
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ayush0068&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
@@ -280,7 +271,7 @@ flowchart TD
 
 <br/>
 
-## ／CODING PHILOSOPHY
+## CODING PHILOSOPHY
 
 <div align="center">
 <table>
@@ -292,7 +283,7 @@ flowchart TD
 
 <br/>
 
-## ／ENGINEERING PRINCIPLES
+## ENGINEERING PRINCIPLES
 
 ```txt
 →  Design the schema before the screen
@@ -303,7 +294,7 @@ flowchart TD
 
 <br/>
 
-## ／FUN FACTS
+## FUN FACTS
 
 - Built an AI service and a Node.js backend to talk to each other cleanly across two different languages and runtimes — Python's FastAPI on one side, Express on the other
 - Prefers designing the database schema before writing a single UI component
@@ -312,7 +303,7 @@ flowchart TD
 
 <br/>
 
-## ／CURRENT GOALS
+## CURRENT GOALS
 
 ```txt
 [ Building ]   Scaling ReConnect-AI's matching pipeline and improving embedding accuracy
@@ -322,7 +313,7 @@ flowchart TD
 
 <br/>
 
-## ／OPEN SOURCE GOALS
+## OPEN SOURCE GOALS
 
 - Publish reusable modules from ReConnect-AI's FastAPI ↔ Node.js integration layer
 - Contribute to open-source projects in the MERN and FastAPI ecosystems
@@ -330,7 +321,7 @@ flowchart TD
 
 <br/>
 
-## ／DEPLOYMENT READINESS
+## DEPLOYMENT READINESS
 
 ```txt
 version control     Git + GitHub, feature-branch workflow
@@ -341,7 +332,7 @@ media handling        Cloudinary pipeline for image upload and delivery
 
 <br/>
 
-## ／LEARNING ROADMAP
+## LEARNING ROADMAP
 
 ```txt
 current      System design for real-time, AI-integrated backends
@@ -352,17 +343,17 @@ next up      Scalable AI service architecture patterns
 
 <br/>
 
-## ／PROFESSIONAL TRACK
+## PROFESSIONAL TRACK
 
-<table width="100%">
-<tr><td width="15%" valign="top"><b>Foundation</b></td><td width="85%">B.Tech in Computer Science — built the fundamentals in data structures, databases, and web development.</td></tr>
-<tr><td width="15%" valign="top"><b>Full-Stack</b></td><td width="85%">Shipped production-style MERN applications — UniCare+ and HelpLink — with real authentication, payments, and real-time systems.</td></tr>
-<tr><td width="15%" valign="top"><b>AI-Integrated</b></td><td width="85%">Currently building ReConnect-AI, combining a Node.js/Express backend with a Python/FastAPI AI service for face recognition and semantic search.</td></tr>
-</table>
+**Foundation** — B.Tech in Computer Science — built the fundamentals in data structures, databases, and web development.
+
+**Full-Stack** — Shipped production-style MERN applications — UniCare+ and HelpLink — with real authentication, payments, and real-time systems.
+
+**AI-Integrated** — Currently building ReConnect-AI, combining a Node.js/Express backend with a Python/FastAPI AI service for face recognition and semantic search.
 
 <br/>
 
-## ／CONNECT WITH ME
+## CONNECT WITH ME
 
 <div align="center">
 
