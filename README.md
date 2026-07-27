@@ -20,7 +20,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;Building+AI-Integrated+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+FastAPI;Currently+Building+ReConnect-AI&font=Fira%20Code&center=true&width=640&height=50&duration=3000&pause=800&color=F5F0E8&vCenter=true&size=22&background=00000000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;Building+AI-Integrated+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+FastAPI;Currently+Building+ReConnect-AI&font=Fira%20Code&center=true&width=640&height=50&duration=3000&pause=800&color=F5F0E8&vCenter=true&size=22&background=0D0D0D" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ayush0068&label=PROFILE%20VIEWS&color=B5432D&style=flat-square&labelColor=0D0D0D" />
